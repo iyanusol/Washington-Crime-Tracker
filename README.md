@@ -15,7 +15,7 @@ This project demonstrates:
 - Real-world crime analysis techniques
 
 It is designed to look and function like a real internal intelligence report used by city analysts or law enforcement agencies.
-![alt text](/)
+
 
 
 ## Project Structure (Pages Overview)
