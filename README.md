@@ -16,6 +16,7 @@ This project demonstrates:
 
 It is designed to look and function like a real internal intelligence report used by city analysts or law enforcement agencies.
 
+![Home Page Dashboard](Crime%20Tracker%20Project/images/Crime%20Dashboard-Page%201.png)
 
 
 ## Project Structure (Pages Overview)
@@ -29,6 +30,11 @@ A clean, minimalist executive-style overview including:
 - Daily Offense Types – theft, assault, robbery, auto theft, homicide, etc.
 - Bubble Crime Hotspots Map – geospatial visualization of crime concentration
 - This page provides a fast, high-level understanding of crime patterns at a glance.
+
+
+![Page 2 Dashboard](Crime%20Tracker%20Project/images/Crime%20Dashboard-Page%202.png)
+
+
 
 ### Page 2 — Crime Factor Breakdown (Decomposition Tree)
 
@@ -44,6 +50,9 @@ This section breaks down the drivers of crime count by:
 The Decomposition Tree reveals which factors most strongly contribute to incident volume.
 Interactive slicers allow users to explore patterns by date or census area.
 
+![Page 3 Dashboard](Crime%20Tracker%20Project/images/Crime%20Dashboard-Page%203.png)
+
+
 ### Page 3 — Key Influencers Analysis
 
 This page uses Power BI’s Key Influencers visual to answer operational questions such as:
@@ -52,15 +61,7 @@ This page uses Power BI’s Key Influencers visual to answer operational questio
 
 It highlights relationships between crime types, neighborhoods, and response behaviors, supporting data-driven policing and resource planning.
 
-### Page 4 — Drill-Through Page
 
-A detailed drill-down page that shows:
-
-- Crime counts by day
-- Neighborhood-level crime patterns
-- Operational shifts
-- Block-level contributions
-- Month-over-month visuals
 
 This provides investigative depth for analysts who need to explore specific incidents or geographic patterns.
 
@@ -90,6 +91,9 @@ This provides investigative depth for analysts who need to explore specific inci
 - Logical visual grouping
 - Page navigation design
 
+![Skyline](Crime%20Tracker%20Project/images/washington%20skyline.png)
+
+
 ## Dataset
 
 The dataset used contains 30 days of crime incidents reported by Washington, D.C.’s Metropolitan Police Department, including:
@@ -108,6 +112,10 @@ The dataset used contains 30 days of crime incidents reported by Washington, D.C
 - Create clean, intuitive dashboards suitable for decision-makers
 - Demonstrate geospatial analysis capabilities
 - Showcase advanced Power BI visuals for portfolio use
+
+![Home Page Dashboard](Crime%20Tracker%20Project/images/Crime%20Dashboard-Page%201.png)
+
+
 
 ### Key Insights Found
 
